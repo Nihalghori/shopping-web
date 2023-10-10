@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Nihalghori/shopping-web/static/css/main.813af61c.css",
-    "main.js": "/Nihalghori/shopping-web/static/js/main.24d2016b.js",
+    "main.js": "/Nihalghori/shopping-web/static/js/main.03fb107a.js",
     "static/js/787.eaad36ba.chunk.js": "/Nihalghori/shopping-web/static/js/787.eaad36ba.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Nihalghori/shopping-web/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Sale banner _ gif _ 7_am.gif": "/Nihalghori/shopping-web/static/media/Sale banner _ gif _ 7_am.521d58f0785d8c2465d8.gif",
@@ -20,11 +20,11 @@
     "static/media/slick.woff": "/Nihalghori/shopping-web/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Nihalghori/shopping-web/index.html",
     "main.813af61c.css.map": "/Nihalghori/shopping-web/static/css/main.813af61c.css.map",
-    "main.24d2016b.js.map": "/Nihalghori/shopping-web/static/js/main.24d2016b.js.map",
+    "main.03fb107a.js.map": "/Nihalghori/shopping-web/static/js/main.03fb107a.js.map",
     "787.eaad36ba.chunk.js.map": "/Nihalghori/shopping-web/static/js/787.eaad36ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.813af61c.css",
-    "static/js/main.24d2016b.js"
+    "static/js/main.03fb107a.js"
   ]
 }
